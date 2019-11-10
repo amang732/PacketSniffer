@@ -6,7 +6,8 @@ INTRODUCTION
     A sniffer (packet sniffer) is a tool that intercepts data flowing in a network. If computers are connected to a local area network that 
     is not filtered or switched, the traffic can be broadcast to all computers contained in the same segment. This doesn’t generally occur, 
     since computers are generally told to ignore all the comings and goings of traffic from other computers. However, in the case of a sniffer, 
-    all traffic is shared when the sniffer software commands the Network Interface Card (NIC) to stop ignoring the traffic. The NIC is put into promiscuous mode, and it reads communications between computers within a particular segment. This allows the sniffer to seize everything that is flowing in the network, which can lead to the unauthorized access of sensitive data. 
+    all traffic is shared when the sniffer software commands the Network Interface Card (NIC) to stop ignoring the traffic. The NIC is put into
+    promiscuous mode, and it reads communications between computers within a particular segment. This allows the sniffer to seize everything that is flowing in the network, which can lead to the unauthorized access of sensitive data. 
     A packet sniffer can take the form of either a hardware or software solution. A sniffer is also known as a packet analyser.
 
 PROJECT
@@ -17,7 +18,7 @@ FUTURE SCOPE
     This Include packet disesction upto layer 7(that is, Application Layer).
     User friendly UI.Tracing the Particular packet stream of UDP and TCP.
     Compatibility with Windows.
-    (Fucture Scope is subjected to change according to the acheived milestone).
+    (Future Scope is subjected to change according to the achieved milestone).
 
 TECHNICAL SPECIFICATION:
     FRONTEND:
